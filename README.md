@@ -1,0 +1,3 @@
+# HomeBrewManager
+
+HomeBrewManager is the best Rust application for managing homebrew on the mac. Vision: one day replace homebrew with a Rust application that runs more efficiently, utilizes concurrency, parallelism and the GPU to allow max performance, use its own internal state, cache, and data management system, use Erlang's "let it fail" approach to make the system fault tolerant, be easier to use than Homebrew by using typeform inspired progress bars, UX, and a Socratic, single question approach, and add additional interfaces such as a web, electron desktop, etc. Got ideas? Shoot them to me and let's improve this together.
